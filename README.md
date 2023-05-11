@@ -11,7 +11,7 @@ Digunakan oleh pengguna sistem / website untuk membuat akun baru. Biasanya terdi
 
 ## Fungsi Framework CSS Bootstrap
 
-<img src="screenshots/bootstrap.jpg" width="300px" />
+<img src="https://github.com/janzenfaidiban/sacode-ii-day-11-2023/blob/main/_screenshots/bootstrap.jpg?raw=true" width="300px" />
 
 Boostrap merupakan salah satu framework CSS. Digunakan untuk memudahkan para web developer dalam mendesain sebuah sistem informasi atau website.
 
